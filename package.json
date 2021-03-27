@@ -1,0 +1,23 @@
+{
+  "name": "login-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ale-mouraboni/login-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ale-mouraboni/login-app/issues"
+  },
+  "homepage": "https://github.com/ale-mouraboni/login-app#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
